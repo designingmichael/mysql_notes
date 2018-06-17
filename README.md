@@ -1,2 +1,3 @@
 # mysql_notes
-Mysql notes
+
+This is the notes I summarized while learning MySQL on Udemy.
